@@ -1,0 +1,15 @@
+name,cpus,memory
+e2-standard-2,2,8
+e2-standard-4,4,16
+e2-standard-8,8,32
+e2-standard-16,16,64
+e2-standard-128,32,128
+e2-highmem-2,2,16
+e2-highmem-4,4,32
+e2-highmem-8,8,64
+e2-highmem-16,16,128
+e2-highcpu-2,2,2
+e2-highcpu-4,4,4
+e2-highcpu-8,8,8
+e2-highcpu-16,16,16
+e2-highcpu-32,32,32
