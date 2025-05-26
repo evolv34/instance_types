@@ -8,5 +8,5 @@ class Algorithm(ABC):
         pass
 
     @abc.abstractmethod
-    def process(self, **kwargs) -> str:
+    def process(self, **kwargs):
         pass
